@@ -1,0 +1,108 @@
+{
+  "assetsByChunkName": {
+    "path---testimonials-merseda-spahic": [
+      "path---testimonials-merseda-spahic-c2eaf898b5a7cf90e84c.js",
+      "path---testimonials-merseda-spahic-c2eaf898b5a7cf90e84c.js.map"
+    ],
+    "path---testimonials-anur-becirovic": [
+      "path---testimonials-anur-becirovic-13f700f5a2a6ad88cc10.js",
+      "path---testimonials-anur-becirovic-13f700f5a2a6ad88cc10.js.map"
+    ],
+    "component---src-templates-single-js": [
+      "component---src-templates-single-js-c891064231911b08f47b.js",
+      "component---src-templates-single-js-c891064231911b08f47b.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-efb59e3b4ae5067a439f.js",
+      "component---src-layouts-index-jsx-efb59e3b4ae5067a439f.js.map"
+    ],
+    "path---faq": [
+      "path---faq-1db04e5021b40904aca6.js",
+      "path---faq-1db04e5021b40904aca6.js.map"
+    ],
+    "path---testimonials-edin-congo": [
+      "path---testimonials-edin-congo-b8cc76cf9ea19a08c1fd.js",
+      "path---testimonials-edin-congo-b8cc76cf9ea19a08c1fd.js.map"
+    ],
+    "path---mentors-benjamin-delic": [
+      "path---mentors-benjamin-delic-d3aa40bbb22d4bdade5b.js",
+      "path---mentors-benjamin-delic-d3aa40bbb22d4bdade5b.js.map"
+    ],
+    "path---index": [
+      "path---index-1db04e5021b40904aca6.js",
+      "path---index-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-pages-faq-jsx": [
+      "component---src-pages-faq-jsx-a0c3246a01233eb48e0f.js",
+      "component---src-pages-faq-jsx-a0c3246a01233eb48e0f.js.map"
+    ],
+    "path---testimonials-haris-brackovic": [
+      "path---testimonials-haris-brackovic-13a6da8b0e543ef20280.js",
+      "path---testimonials-haris-brackovic-13a6da8b0e543ef20280.js.map"
+    ],
+    "commons": [
+      "commons-18b41b17673693ef421b.js",
+      "build-js-styles.css",
+      "commons-18b41b17673693ef421b.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-1db04e5021b40904aca6.js",
+      "path---404-html-1db04e5021b40904aca6.js.map"
+    ],
+    "path---testimonials-ilija-samarlic": [
+      "path---testimonials-ilija-samarlic-e2bf37451dcc26b0203f.js",
+      "path---testimonials-ilija-samarlic-e2bf37451dcc26b0203f.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-86f215897186fe8fa7bb.js",
+      "component---src-pages-404-jsx-86f215897186fe8fa7bb.js.map"
+    ],
+    "path---mentors-mila-gracanin": [
+      "path---mentors-mila-gracanin-45b07ef6e162f7a3793a.js",
+      "path---mentors-mila-gracanin-45b07ef6e162f7a3793a.js.map"
+    ],
+    "path---mentors-irhad-babic": [
+      "path---mentors-irhad-babic-8929a8661948d80d9336.js",
+      "path---mentors-irhad-babic-8929a8661948d80d9336.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-3e2d35e44ce17a74660e.js",
+      "component---src-pages-index-jsx-3e2d35e44ce17a74660e.js.map"
+    ],
+    "path---mentors-sulejman-catibusic": [
+      "path---mentors-sulejman-catibusic-7b935021a333cfa8aca8.js",
+      "path---mentors-sulejman-catibusic-7b935021a333cfa8aca8.js.map"
+    ],
+    "path---testimonials-esmeralda-holjan": [
+      "path---testimonials-esmeralda-holjan-1544e0ddbd58bb3cdea6.js",
+      "path---testimonials-esmeralda-holjan-1544e0ddbd58bb3cdea6.js.map"
+    ],
+    "app": [
+      "app-81242acb32c5fb1e3e98.js",
+      "build-js-styles.css",
+      "app-81242acb32c5fb1e3e98.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---testimonials-faris-odobasic": [
+      "path---testimonials-faris-odobasic-903177c6e39d2f77ca8d.js",
+      "path---testimonials-faris-odobasic-903177c6e39d2f77ca8d.js.map"
+    ],
+    "path---404": [
+      "path---404-1db04e5021b40904aca6.js",
+      "path---404-1db04e5021b40904aca6.js.map"
+    ],
+    "path---testimonials-amar-basic": [
+      "path---testimonials-amar-basic-24cdc49013ae8e36b191.js",
+      "path---testimonials-amar-basic-24cdc49013ae8e36b191.js.map"
+    ],
+    "path---mentors-aldin-selimovic": [
+      "path---mentors-aldin-selimovic-cc2d8ec6cb73d030a082.js",
+      "path---mentors-aldin-selimovic-cc2d8ec6cb73d030a082.js.map"
+    ]
+  }
+}
